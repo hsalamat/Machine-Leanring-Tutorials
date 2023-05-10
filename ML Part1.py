@@ -1,3 +1,8 @@
+#the Python extension tries to find and then select 
+# what it deems the best environment for the workspace. 
+# If you would prefer to select a specific environment, 
+# use the Python: Select Interpreter command from the Command Palette (Ctrl+Shift+P).
+# If you have anaconda python (numpy comes with it) installed, you could switch the original python environment to anaconda python environment in visuals studio code.
 # pip install numpy
 # pip install matplotlib
 
